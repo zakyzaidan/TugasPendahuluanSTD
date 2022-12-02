@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1665299820 source:d:\eki\kuliah\a-semester 3\praktek_sbd\tp_minggu3\main.cpp
+	"member.h"
+	"member.cpp"
+	<iostream>
+
+1665300004 d:\eki\kuliah\a-semester 3\praktek_sbd\tp_minggu3\member.h
+
+1665299766 d:\eki\kuliah\a-semester 3\praktek_sbd\tp_minggu3\member.cpp
+	"member.h"
+	<iostream>
+
